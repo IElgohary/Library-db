@@ -1,2 +1,1 @@
-# Library-db
-Basic Database driven website in php
+My first trial in web Development 
