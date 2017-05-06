@@ -1,0 +1,67 @@
+#login_form{
+	background-color: white;
+	width:70%;
+	height: 500px;
+	border-radius: 4px;
+}
+#password{
+	margin-right: 23px;
+}
+#password2{
+	margin-right: 82px;
+}
+#navbar
+{
+	background-color: white;
+	width: 70%;
+	height: 30px;
+	border-radius: 4px;
+	border-color: purple;
+}
+a{
+	font-size: 25px;
+	color: black;
+	font-family: Arial;
+}
+h1{
+	font-family: sans-serif;
+	font-size: 35px;
+}
+body
+{
+	background-color:#0d7ff2;
+}
+#author{
+	margin-left: 24px; 
+}
+#copies{
+	margin-right: 49px;
+}
+#tables{
+	background-color: white;
+	width: 70%;
+	border-radius: 4px;
+	text-align: center;
+	margin : auto;
+
+}
+table,td,th
+{
+	border-radius:1px;
+	margin: auto;
+	border: 1px solid black;
+	width:60%;
+}
+
+th{
+	background-color: yellow;
+}
+td
+{
+	background-color: grey;
+	color: white;
+}
+
+a:hover{
+	color: blue;
+}
